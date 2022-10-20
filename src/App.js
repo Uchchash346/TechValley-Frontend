@@ -1,11 +1,11 @@
 import React from 'react';
-import 'antd/dist/antd.css'
+import Navbar from './components/pages/Navbar';
 
 const App = () => {
   return (
-    <div>
-      <h1>Welcome to Tech Valley</h1>
-    </div>
+    <>
+      <Navbar />
+    </>
   );
 };
 
