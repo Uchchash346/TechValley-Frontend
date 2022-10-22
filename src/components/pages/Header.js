@@ -6,9 +6,9 @@ const Header = () => {
 
     return (
         <>
-            <div
+            {/* <div
                 style={{ 'backgroundImage': `url(require("../images/header-image.jpg"))` }}
-                className="header-area m-0 h-full bg-center bg-no-repeat bg-cover"></div>
+                className="header-area m-0 h-full bg-center bg-no-repeat bg-cover"></div> */}
         </>
     );
 };
