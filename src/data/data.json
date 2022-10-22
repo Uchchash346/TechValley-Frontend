@@ -1,0 +1,16 @@
+{
+    "cloths": [
+        {
+            "id": 1,
+            "category": "",
+            "subcategories": [],
+            "name": "",
+            "model": "",
+            "images": [],
+            "sizes": [],
+            "stocks": 50,
+            "ratings": 5,
+            "comments": []
+        }
+    ]
+}
