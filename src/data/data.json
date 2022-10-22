@@ -2,15 +2,33 @@
     "cloths": [
         {
             "id": 1,
-            "category": "",
-            "subcategories": [],
-            "name": "",
-            "model": "",
-            "images": [],
-            "sizes": [],
+            "gender": "Men",
+            "category": "Panjabi",
+            "subcategories": [
+                "Men",
+                "Casual Panjabi"
+            ],
+            "name": "MENS PANJABI",
+            "model": "SS-MCP-136",
+            "images": [
+                "https://dg19fhsjeexqh.cloudfront.net/images/media/2022/06/bLlmNadrN4oQLbtdvLBHpBiKguNtvGjV2hDLKyyp.jpg",
+                "https://dg19fhsjeexqh.cloudfront.net/images/media/2022/06/fUTgoSgO3zAvDekUYdNbdIBZJBytdvoVHvOb5uCn.jpg",
+                "https://dg19fhsjeexqh.cloudfront.net/images/media/2022/06/6OoHnYpuJ4d7X7Jn5s1gR3SGkicJ57jL7I1qOsRy.jpg"
+            ],
+            "sizes": [
+                "L",
+                "M",
+                "S",
+                "XL",
+                "XXL"
+            ],
             "stocks": 50,
             "ratings": 5,
-            "comments": []
+            "comments": [
+                "Good Product",
+                "Satisfied",
+                "Nice Panjabi"
+            ]
         }
     ]
 }
