@@ -6,6 +6,7 @@ const Products = () => {
 
     return (
         <>
+        
             <div className='pt-5'>
                 <h2 className='text-sky-800 text-center pb-5 text-4xl uppercase'>Our Products Storage</h2>
                 <div className="grid grid-cols-4 gap-4 container mx-auto">
