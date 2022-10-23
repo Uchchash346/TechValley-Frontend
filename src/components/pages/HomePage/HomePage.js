@@ -1,6 +1,8 @@
 import React from 'react';
 import Navbar from '../Navbar';
 import OfferDeal from '../OfferDeal';
+import Products from '../Products/Products';
+import PromotionalPage from '../PromotionalPage/PromotionalPage';
 import Slider from '../Slider';
 
 const HomePage = () => {
@@ -9,6 +11,8 @@ const HomePage = () => {
             <Navbar />
             <Slider />
             <OfferDeal />
+            <PromotionalPage />
+            <Products />
         </div>
     );
 };
