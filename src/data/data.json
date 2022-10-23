@@ -3,17 +3,19 @@
         {
             "id": 1,
             "gender": "Men",
-            "category": "Panjabi",
+            "category": "CASUAL SHIRT",
             "subcategories": [
                 "Men",
-                "Casual Panjabi"
+                "Shirt",
+                "Casual Shirt"
             ],
-            "name": "MENS PANJABI",
-            "model": "SS-MCP-136",
+            "name": "MEN'S CASUAL SHIRT",
+            "model": "NR-MCS-05",
+            "price": 1000,
             "images": [
-                "https://dg19fhsjeexqh.cloudfront.net/images/media/2022/06/bLlmNadrN4oQLbtdvLBHpBiKguNtvGjV2hDLKyyp.jpg",
-                "https://dg19fhsjeexqh.cloudfront.net/images/media/2022/06/fUTgoSgO3zAvDekUYdNbdIBZJBytdvoVHvOb5uCn.jpg",
-                "https://dg19fhsjeexqh.cloudfront.net/images/media/2022/06/6OoHnYpuJ4d7X7Jn5s1gR3SGkicJ57jL7I1qOsRy.jpg"
+                "https://dg19fhsjeexqh.cloudfront.net/images/media/2022/05/x3S5vdp2WdPZ6evK0ksOoWJRptr2jTUQUH7W2RCO.jpg",
+                "https://dg19fhsjeexqh.cloudfront.net/images/media/2022/05/hMW3PcM9ytXup0cueTISx4q5GUXdCBfXSgWowoQD.jpg",
+                "https://dg19fhsjeexqh.cloudfront.net/images/media/2022/05/BBWfXmukVYeZukfZhEQEySNQgpiBUvZV6bqHV0SE.jpg"
             ],
             "sizes": [
                 "L",
@@ -23,11 +25,514 @@
                 "XXL"
             ],
             "stocks": 50,
-            "ratings": 5,
+            "ratings": 4.2,
             "comments": [
                 "Good Product",
                 "Satisfied",
-                "Nice Panjabi"
+                "Nice"
+            ]
+        },
+        {
+            "id": 2,
+            "gender": "Men",
+            "category": "CASUAL SHIRT",
+            "subcategories": [
+                "Men",
+                "Shirt",
+                "Casual Shirt"
+            ],
+            "name": "MEN'S CASUAL SHIRT",
+            "model": "NR-MCS-07",
+            "price": 995,
+            "images": [
+                "https://dg19fhsjeexqh.cloudfront.net/images/media/2022/05/5FekmM73dQNBOb1H9RQs4UYqCqvrzfwQb9f2qtof.jpg",
+                "https://dg19fhsjeexqh.cloudfront.net/images/media/2022/05/aWWcPoMBoZNfC8K2QGzu4NKYUGEcRwpCxLlnIUPw.jpg",
+                "https://dg19fhsjeexqh.cloudfront.net/images/media/2022/05/dim78tYKAFx7LaqHOR1JipHmFOzAVHSPKWXPsfVU.jpg"
+            ],
+            "sizes": [
+                "L",
+                "M",
+                "S",
+                "XL",
+                "XXL"
+            ],
+            "stocks": 43,
+            "ratings": 4.8,
+            "comments": [
+                "Good Shirt",
+                "Satisfied",
+                "Nice but not satisfied"
+            ]
+        },
+        {
+            "id": 3,
+            "gender": "Men",
+            "category": "CASUAL SHIRT",
+            "subcategories": [
+                "Men",
+                "Shirt",
+                "Casual Shirt"
+            ],
+            "name": "MEN'S CASUAL SHIRT",
+            "model": "SS-MCS-181",
+            "price": 1195,
+            "images": [
+                "https://dg19fhsjeexqh.cloudfront.net/images/media/2022/05/DZT7maCkV0DaDbSJSlybapOracc7lZ3qSiHRM3u2.jpg",
+                "https://dg19fhsjeexqh.cloudfront.net/images/media/2022/05/XxcZZP2fzbHp8k2qBNurQrFQjQ5ebQZQ6xt3PSCT.jpg",
+                "https://dg19fhsjeexqh.cloudfront.net/images/media/2022/05/XxcZZP2fzbHp8k2qBNurQrFQjQ5ebQZQ6xt3PSCT.jpg"
+            ],
+            "sizes": [
+                "L",
+                "M",
+                "S",
+                "XL",
+                "XXL"
+            ],
+            "stocks": 15,
+            "ratings": 5.0,
+            "comments": [
+                "Good Shirt",
+                "Satisfied"
+            ]
+        },
+        {
+            "id": 4,
+            "gender": "Men",
+            "category": "CASUAL SHIRT",
+            "subcategories": [
+                "Men",
+                "Shirt",
+                "Casual Shirt"
+            ],
+            "name": "MEN'S CASUAL SHIRT",
+            "model": "NR-MCS-11",
+            "price": 1295,
+            "images": [
+                "https://dg19fhsjeexqh.cloudfront.net/images/media/2022/05/QPCg2F9Hik4JGKYDxjMVObwN2V9ujYhINwWvdpj2.jpg",
+                "https://dg19fhsjeexqh.cloudfront.net/images/media/2022/05/mZAaUKhVYfDm8ltiN3BASBe9O2X7eDh7NqiB2RDH.jpg",
+                "https://dg19fhsjeexqh.cloudfront.net/images/media/2022/05/Ip1Fe2YCEn7D9aZigSTJCrUCqepEQg49ZQZahhLx.jpg"
+            ],
+            "sizes": [
+                "L",
+                "M",
+                "S",
+                "XL",
+                "XXL"
+            ],
+            "stocks": 10,
+            "ratings": 4.0,
+            "comments": [
+                "Good Shirt",
+                "Satisfied",
+                "Bad product"
+            ]
+        },
+        {
+            "id": 5,
+            "gender": "Men",
+            "category": "CASUAL SHIRT",
+            "subcategories": [
+                "Men",
+                "Shirt",
+                "Casual Shirt"
+            ],
+            "name": "MEN'S CASUAL SHIRT",
+            "model": "SS-MCS-182",
+            "price": 1295,
+            "images": [
+                "https://dg19fhsjeexqh.cloudfront.net/images/media/2022/05/jVelwOV46Vb86nKqfYnNLbKLueCxZ7C6HD3orwz9.jpg",
+                "https://dg19fhsjeexqh.cloudfront.net/images/media/2022/05/LRYBhnieilUPUlM8FvCA9rNc8VDRsLB6ulHm0xr1.jpg",
+                "https://dg19fhsjeexqh.cloudfront.net/images/media/2022/05/cFMPDbTtf0moUxptTn5EcwYEFn65Cu9ZWdn75wf3.jpg"
+            ],
+            "sizes": [
+                "L",
+                "M",
+                "S",
+                "XL",
+                "XXL"
+            ],
+            "stocks": 17,
+            "ratings": 4.2,
+            "comments": [
+                "Good Shirt",
+                "Satisfied",
+                "Bad product",
+                "Good Product"
+            ]
+        },
+        {
+            "id": 6,
+            "gender": "Men",
+            "category": "CASUAL SHIRT",
+            "subcategories": [
+                "Men",
+                "Shirt",
+                "Casual Shirt"
+            ],
+            "name": "MEN'S CASUAL SHIRT",
+            "model": "SS-MFS-38",
+            "price": 1595,
+            "images": [
+                "https://dg19fhsjeexqh.cloudfront.net/images/media/2022/08/ivleXyoO40KOwyQ8pToiYizHodZ1RSSf5ZQRTYna.jpg",
+                "https://dg19fhsjeexqh.cloudfront.net/images/media/2022/08/klkopfaOrQ8nujCAqHy4s2CHkhzpKnmaITqoB9hJ.jpg",
+                "https://dg19fhsjeexqh.cloudfront.net/images/media/2022/08/HmU45K2DWuCRmSj65ApyuzVIyYWzdgOw23jyYHIZ.jpg"
+            ],
+            "sizes": [
+                "L",
+                "M",
+                "S",
+                "XL",
+                "XXL"
+            ],
+            "stocks": 47,
+            "ratings": 4.4,
+            "comments": [
+                "Good Product"
+            ]
+        },
+        {
+            "id": 7,
+            "gender": "Men",
+            "category": "CASUAL SHIRT",
+            "subcategories": [
+                "Men",
+                "Shirt",
+                "Casual Shirt"
+            ],
+            "name": "MEN'S CASUAL SHIRT",
+            "model": "SS-MCS-193",
+            "price": 1595,
+            "images": [
+                "https://dg19fhsjeexqh.cloudfront.net/images/media/2022/08/gkQFjxKmI0nSVFgyBrUm6fb8eaSQlc7MXrEBx11M.jpg",
+                "https://dg19fhsjeexqh.cloudfront.net/images/media/2022/08/GpfaShoiHg6z3Jj8IGRWx5cc5WjWjzY8jSktvm3H.jpg",
+                "https://dg19fhsjeexqh.cloudfront.net/images/media/2022/08/mJzZZtc6bpupkqBwJXPZEQrB6bN5uPwobVlx68Gm.jpg"
+            ],
+            "sizes": [
+                "L",
+                "M",
+                "S",
+                "XL",
+                "XXL"
+            ],
+            "stocks": 49,
+            "ratings": 4.7,
+            "comments": [
+                "Satisfied",
+                "Bad product"
+            ]
+        },
+        {
+            "id": 8,
+            "gender": "Men",
+            "category": "CASUAL SHIRT",
+            "subcategories": [
+                "Men",
+                "Shirt",
+                "Casual Shirt"
+            ],
+            "name": "MEN'S CASUAL SHIRT",
+            "model": "SS-MCS-194",
+            "price": 1395,
+            "images": [
+                "https://dg19fhsjeexqh.cloudfront.net/images/media/2022/05/0nVO87qhMrN1rlXvKKsLbKLsHPAQGoBVPlq45wUv.jpg",
+                "https://dg19fhsjeexqh.cloudfront.net/images/media/2022/05/qv8ugFlLfbIrVU94X6o9yxpCTmr1xRJubi0zstp0.jpg",
+                "https://dg19fhsjeexqh.cloudfront.net/images/media/2022/05/PyFEE8BmaFRfaxbUlQBSd6dU2fgiExKE2sffP9O6.jpg"
+            ],
+            "sizes": [
+                "L",
+                "M",
+                "S",
+                "XL",
+                "XXL"
+            ],
+            "stocks": 41,
+            "ratings": 4.4,
+            "comments": [
+                "Good Shirt",
+                "Satisfied",
+                "Bad product",
+                "Good Product"
+            ]
+        },
+        {
+            "id": 9,
+            "gender": "Men",
+            "category": "CASUAL SHIRT",
+            "subcategories": [
+                "Men",
+                "Shirt",
+                "Casual Shirt"
+            ],
+            "name": "MEN'S CASUAL SHIRT",
+            "model": "SS-MCS-205",
+            "price": 1395,
+            "images": [
+                "https://dg19fhsjeexqh.cloudfront.net/images/media/2022/05/6IbpjrWkfi5tCoQqC07MVD8bV58ZPlRdYywZZvdW.jpg",
+                "https://dg19fhsjeexqh.cloudfront.net/images/media/2022/05/OpDSzbkqkOtZ8lTMHyQs9Uj0LNaGzaevAOUGL1sp.jpg",
+                "https://dg19fhsjeexqh.cloudfront.net/images/media/2022/05/Kw4Y3L0poBTgGPxNaLoWck5iGlTeYaUuMifnWUAE.jpg"
+            ],
+            "sizes": [
+                "L",
+                "M",
+                "S",
+                "XL",
+                "XXL"
+            ],
+            "stocks": 45,
+            "ratings": 4.8,
+            "comments": [
+                "Bad product",
+                "Good Product"
+            ]
+        },
+        {
+            "id": 10,
+            "gender": "Men",
+            "category": "CASUAL SHIRT",
+            "subcategories": [
+                "Men",
+                "Shirt",
+                "Casual Shirt"
+            ],
+            "name": "MEN'S CASUAL SHIRT",
+            "model": "SS-MCS-225",
+            "price": 1395,
+            "images": [
+                "https://dg19fhsjeexqh.cloudfront.net/images/media/2022/05/gRYJHFnDmS4b1lv3vx7cFzD1ErvptFsdkUGLrbe3.jpg",
+                "https://dg19fhsjeexqh.cloudfront.net/images/media/2022/05/aRfnj6D7QF0Kv1bi114hOlgOe5dH3qexZ1qgSkoN.jpg",
+                "https://dg19fhsjeexqh.cloudfront.net/images/media/2022/05/hEHduVLisAAExFKkofTnkH8qIprhnGQPg0bUbpRy.jpg"
+            ],
+            "sizes": [
+                "L",
+                "M",
+                "S",
+                "XL",
+                "XXL"
+            ],
+            "stocks": 35,
+            "ratings": 4.8,
+            "comments": [
+                "Satisfied"
+            ]
+        },
+        {
+            "id": 11,
+            "gender": "Men",
+            "category": "CASUAL SHIRT",
+            "subcategories": [
+                "Men",
+                "Shirt",
+                "Casual Shirt"
+            ],
+            "name": "MEN'S CASUAL SHIRT",
+            "model": "SS-MCS-236",
+            "price": 1395,
+            "images": [
+                "https://dg19fhsjeexqh.cloudfront.net/images/media/2022/07/vKIcXGGUEKmgoSrvuDY9U3qzuwGcr1gqVy24xxJ8.jpg",
+                "https://dg19fhsjeexqh.cloudfront.net/images/media/2022/08/uBYWGoBBVo93mAagO02Nu6uNfjp02xDoTLJmN7ax.jpg",
+                "https://dg19fhsjeexqh.cloudfront.net/images/media/2022/08/mneORuXBC24Qc0DWdt3M5KBVTxKsRfUUj3zjZ3ID.jpg"
+            ],
+            "sizes": [
+                "L",
+                "M",
+                "S",
+                "XL",
+                "XXL"
+            ],
+            "stocks": 25,
+            "ratings": 3.8,
+            "comments": [
+                "Very bad product"
+            ]
+        },
+        {
+            "id": 12,
+            "gender": "Men",
+            "category": "CASUAL SHIRT",
+            "subcategories": [
+                "Men",
+                "Shirt",
+                "Casual Shirt"
+            ],
+            "name": "MEN'S CASUAL SHIRT",
+            "model": "SS-MCS-230",
+            "price": 1395,
+            "images": [
+                "https://dg19fhsjeexqh.cloudfront.net/images/media/2022/05/SRiFKPShVqkldZq1PIm5IZTHWt792jErIHcte2CC.jpg",
+                "https://dg19fhsjeexqh.cloudfront.net/images/media/2022/05/IAiTRCEbOXbQEYhcK7GossR27lag7vEaVK0Cl3F1.jpg",
+                "https://dg19fhsjeexqh.cloudfront.net/images/media/2022/05/vcTfeU2sa8mq4gPw5Aw0COc9akMeWtG4ESwnPmSE.jpg"
+            ],
+            "sizes": [
+                "L",
+                "M",
+                "S",
+                "XL",
+                "XXL"
+            ],
+            "stocks": 15,
+            "ratings": 4.8,
+            "comments": [
+                "Good Shirt",
+                "Satisfied"
+            ]
+        },
+        {
+            "id": 13,
+            "gender": "Men",
+            "category": "CASUAL SHIRT",
+            "subcategories": [
+                "Men",
+                "Shirt",
+                "Casual Shirt"
+            ],
+            "name": "MEN'S CASUAL SHIRT",
+            "model": "SS-MCS-212",
+            "price": 1895,
+            "images": [
+                "https://dg19fhsjeexqh.cloudfront.net/images/media/2022/05/ApYWoWzCKVO9jyY4z9cZIyYifixYswrELAJZXDF8.jpg",
+                "https://dg19fhsjeexqh.cloudfront.net/images/media/2022/05/cYu4vydOreJL7NmvFUBqeTsiBs3KIHD9hnma6FYE.jpg",
+                "https://dg19fhsjeexqh.cloudfront.net/images/media/2022/05/57yDzalQPXltiUslcmcRSXg67RDHlN24WMtqjSXo.jpg"
+            ],
+            "sizes": [
+                "L",
+                "M",
+                "S",
+                "XL",
+                "XXL"
+            ],
+            "stocks": 5,
+            "ratings": 4.9,
+            "comments": [
+                "Good Product"
+            ]
+        },
+        {
+            "id": 14,
+            "gender": "Men",
+            "category": "CASUAL SHIRT",
+            "subcategories": [
+                "Men",
+                "Shirt",
+                "Casual Shirt"
+            ],
+            "name": "MEN'S CASUAL SHIRT",
+            "model": "SS-MCS-215",
+            "price": 1595,
+            "images": [
+                "https://dg19fhsjeexqh.cloudfront.net/images/media/2022/05/Q6tmdrYTbOX4iHy3m2foKv0ODXeee7NeOUHwVmaa.jpg",
+                "https://dg19fhsjeexqh.cloudfront.net/images/media/2022/05/HD5xoCdHwoVL8EdVmjJ4belpW2Vao58yx5ADCUjB.jpg",
+                "https://dg19fhsjeexqh.cloudfront.net/images/media/2022/05/E2Q8AIQItbDLW1AV8eQL0NJrhSnPdiVchOjRtqHR.jpg"
+            ],
+            "sizes": [
+                "L",
+                "M",
+                "S",
+                "XL",
+                "XXL"
+            ],
+            "stocks": 51,
+            "ratings": 5.0,
+            "comments": [
+                "Good Shirt",
+                "Satisfied",
+                "Bad product",
+                "Good Product"
+            ]
+        },
+        {
+            "id": 14,
+            "gender": "Men",
+            "category": "CASUAL SHIRT",
+            "subcategories": [
+                "Men",
+                "Shirt",
+                "Casual Shirt"
+            ],
+            "name": "MEN'S CASUAL SHIRT",
+            "model": "SS-MCS-222",
+            "price": 1195,
+            "images": [
+                "https://dg19fhsjeexqh.cloudfront.net/images/media/2022/05/cMZEvYBlfOMKkzO5wUkSUbPDK8PtbsRd67U5Q1Az.jpg",
+                "https://dg19fhsjeexqh.cloudfront.net/images/media/2022/05/uVkxyPPsdXEih6j192qD7DjhOb6juw6hNKybnlXQ.jpg",
+                "https://dg19fhsjeexqh.cloudfront.net/images/media/2022/05/O68m4XsHBUtjCo4c2GUFvm03BTdCZoyCFWiBzgYU.jpg"
+            ],
+            "sizes": [
+                "L",
+                "M",
+                "S",
+                "XL",
+                "XXL"
+            ],
+            "stocks": 11,
+            "ratings": 4.1,
+            "comments": [
+                "Good Shirt",
+                "Satisfied",
+                "Good Product"
+            ]
+        },
+        {
+            "id": 15,
+            "gender": "Men",
+            "category": "CASUAL SHIRT",
+            "subcategories": [
+                "Men",
+                "Shirt",
+                "Casual Shirt"
+            ],
+            "name": "MEN'S CASUAL SHIRT",
+            "model": "SS-MCS-228",
+            "price": 1395,
+            "images": [
+                "https://dg19fhsjeexqh.cloudfront.net/images/media/2022/05/GhfT4ucIPGq8IgyNsKCCgtySKCmEfyZzMFEKeAtI.jpg",
+                "https://dg19fhsjeexqh.cloudfront.net/images/media/2022/05/QQXWj4kkZs8Up0UnBTeOL9FwIIEMFlTIP3L7Vs2x.jpg",
+                "https://dg19fhsjeexqh.cloudfront.net/images/media/2022/05/w2LKhd3hrWSBKVxD3UqPj1bjVtVM8JKGdgRZxo2K.jpg"
+            ],
+            "sizes": [
+                "L",
+                "M",
+                "S",
+                "XL",
+                "XXL"
+            ],
+            "stocks": 17,
+            "ratings": 4.3,
+            "comments": [
+                "Good Shirt",
+                "Satisfied"
+            ]
+        },
+        {
+            "id": 16,
+            "gender": "Men",
+            "category": "CASUAL SHIRT",
+            "subcategories": [
+                "Men",
+                "Shirt",
+                "Casual Shirt"
+            ],
+            "name": "MEN'S CASUAL SHIRT",
+            "model": "MA-MCS-223",
+            "price": 1895,
+            "images": [
+                "https://dg19fhsjeexqh.cloudfront.net/images/media/2022/05/Vn0OO4xFOA3M3ltxALvk1TaqDv0qjf89dNdrToYi.jpg",
+                "https://dg19fhsjeexqh.cloudfront.net/images/media/2022/05/D6ezXkmYwctPuJCHI5OwkIl4ajEyV3fQX41UiQ9d.jpg",
+                "https://dg19fhsjeexqh.cloudfront.net/images/media/2022/05/7znuhN0QrMzoiFeRCUXMqrx3zIkESAWGFk8xUI0q.jpg"
+            ],
+            "sizes": [
+                "L",
+                "M",
+                "S",
+                "XL",
+                "XXL"
+            ],
+            "stocks": 19,
+            "ratings": 4.9,
+            "comments": [
+                "Good Shirt",
+                "Satisfied",
+                "Bad product",
+                "Good Product"
             ]
         }
     ]
