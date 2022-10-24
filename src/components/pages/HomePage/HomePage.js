@@ -3,6 +3,7 @@ import Navbar from '../Navbar';
 import OfferDeal from '../OfferDeal';
 import Products from '../Products/Products';
 import PromotionalPage from '../PromotionalPage/PromotionalPage';
+import SingleBanner from '../SingleBanner/SingleBanner';
 import Slider from '../Slider';
 
 const HomePage = () => {
@@ -13,6 +14,7 @@ const HomePage = () => {
             <OfferDeal />
             <PromotionalPage />
             <Products />
+            <SingleBanner />
         </div>
     );
 };
